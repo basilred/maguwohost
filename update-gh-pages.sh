@@ -4,7 +4,7 @@ YENV=production ./build.sh
 
 # IMPORTANT! Create gh-pages branch in your github project first.
 # Replace the path to your own github project.
-git clone -b gh-pages https://github.com/basilred/spirit8.git deploy
+git clone -b gh-pages https://github.com/basilred/maguwohost.git deploy
 
 cd deploy
 rm -rf *
